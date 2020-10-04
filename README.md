@@ -1,5 +1,5 @@
 # Virtualscroll
-![image](scroll3.png)
+![image](sroll3.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 ## It contains the demo code for [my Pusher Tutorial](https://pusher.com/tutorials/infinite-scrolling-angular-cdk)
 
